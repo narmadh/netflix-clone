@@ -1,4 +1,5 @@
 # netflix-clone
+A simple netflix clone using tmdb api
 #  Live Site
 https://netflix-clone-e69d8.web.app/
 #  Tmdb api
