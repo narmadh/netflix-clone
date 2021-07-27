@@ -1,5 +1,5 @@
 # netflix-clone
-A simple netflix clone using tmdb api
+Responsive netflix application using tmdb api but youtube trailers instead of movies
 #  Live Site
 https://netflix-clone-e69d8.web.app/
 #  Tmdb api
